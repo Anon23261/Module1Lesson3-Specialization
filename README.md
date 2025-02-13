@@ -121,6 +121,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📬 Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Your Name - ghost
 
-Project Link: [https://github.com/yourusername/mechanic-shop-api](https://github.com/yourusername/mechanic-shop-api)
+Project Link: [[https://github.com/yourusername/mechanic-shop-api](https://github.com/yourusername/mechanic-shop-api)
+](https://github.com/Anon23261/Module1Lesson3-Specialization)
